@@ -1,4 +1,4 @@
-let calculator = require("../src/cal")
+let calculator = require("../src/simple_calculator")
 
 describe("Add function", function() {
     it("Can add two number", function() {
